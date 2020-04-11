@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full Stack Instagram Clone" src="https://github.com/RicardoBastos/Docs/blob/master/react_node.png" />
+    <img alt="Full Stack Instagram Clone" src="https://github.com/RicardoBastos/Docs/blob/master/imagens/react_node.png" />
     <br>
     Nome Do Projeto <br />
     Tech 1 | Tech 2
@@ -45,7 +45,7 @@ $ yarn install
 
 # Start the backend server
 $ yarn dev
-
+```
 
 
 ## :memo: License
