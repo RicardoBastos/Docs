@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como usar</a>
+  <a href="#information_source-como-usar">Como usar</a>
 </p>
 
 
@@ -48,7 +48,7 @@ Packages
 IDE
 - [VS Code][vc] 
 
-## :information_source: How To Use
+## :information_source: Como Usar
 
 Para clonar e rodar essa aplicação você precisa ter o  [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou higher + [Yarn v1.13][yarn] ou superior instalado em seu computador.
 
